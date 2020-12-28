@@ -4,8 +4,8 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-engr&layout=compact" /> -->
  
- can work on any project involving JavaScript libraries such as React.js, Angular, Vue, Node.js, Next.js, Nest.js, Express.js and WordPress theme & plugins. On top of working on artificial intelligence, machine learning with one of the largest insurance companies in the United States.
-I enjoy all aspects of my work, and I continually work on perfecting my craft by taking online courses, attending seminars and networking with other developers.
+I can work on any project involving JavaScript libraries such as React.js, Angular, Vue, Node.js, Next.js, Nest.js, Express.js and WordPress theme & plugins. On top of working on artificial intelligence, machine learning with one of the largest insurance companies in the United States.
+I am happy to work with clients who want to be actively involved in the development and available via video chat or voice call to discuss project requirements.
 
 <!-- ![Profile views](https://gpvc.arturio.dev/miko-engr) -->
 
