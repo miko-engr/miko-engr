@@ -5,3 +5,4 @@
 Work on full stack web and mobile project involving JavaScript libraries such as React, Angular, Vue, Node.js, Nest.js, Express.js and WP, Django, AWS, Firebase. On top of working on AI, ML with one of the largest insurance companies in the US.
 Happy to work with clients who want to be actively involved in the development and available via video chat or voice call to discuss project requirements.
 
+
